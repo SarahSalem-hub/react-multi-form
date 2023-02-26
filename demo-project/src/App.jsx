@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+
 import './App.css'
 import "./assets/fonts/Ubuntu-Regular.ttf";
 
@@ -12,12 +11,7 @@ function App() {
 
   return (
     <div className="App" >
-      <Container>
-        
-       
-        //content
-      </Container>
-   
+      <Container/>
     </div>
   )
 }

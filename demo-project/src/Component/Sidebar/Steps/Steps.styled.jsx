@@ -22,7 +22,7 @@ padding : 10px 15px;
 font-family: 'Ubuntu';
 background-color:hsl(228, 100%, 84%);
 border-radius: 25px;
-margin : 18px;
+margin-right : 18px;
 
 `
 

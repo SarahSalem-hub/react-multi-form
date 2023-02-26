@@ -1,7 +1,7 @@
 import styled from '@emotion/styled'
 
 export const ContentDiv = styled.div`
-// background-color : lightgrey ;
+
 display : flex;
 flex-direction : column;
 justify-content: space-between;
