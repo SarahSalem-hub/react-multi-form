@@ -4,10 +4,22 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
+    font-family: 'Ubuntu';
 }
 
 @font-face {
     font-family: "Ubuntu";   /*Can be any text*/
     src: local("fonts"),
       url("./assets/fonts/Ubuntu-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Ubuntu";   /*Can be any text*/
+    src: local("fonts"),
+      url("./assets/fonts/Ubuntu-Bold.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Ubuntu";   /*Can be any text*/
+    src: local("fonts"),
+      url("./assets/fonts/Ubuntu-Medium.ttf") format("truetype");
   }
