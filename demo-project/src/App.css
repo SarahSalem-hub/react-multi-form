@@ -1,7 +1,13 @@
 body{
     background-color: rgb(159, 159, 197);
-    height: 100vh;
+    /* height: 100vh; */
     margin: 0;
     display: flex;
     justify-content: center;
 }
+
+@font-face {
+    font-family: "Ubuntu";   /*Can be any text*/
+    src: local("fonts"),
+      url("./assets/fonts/Ubuntu-Regular.ttf") format("truetype");
+  }

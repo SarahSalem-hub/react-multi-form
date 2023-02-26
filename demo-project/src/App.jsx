@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
+import "./assets/fonts/Ubuntu-Regular.ttf";
+
 import Container from './Component/Container/Container'
 import Sidebar from './Component/Sidebar/Sidebar'
 
